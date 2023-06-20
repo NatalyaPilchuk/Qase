@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/constants/Credentials.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/constants/Urls.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/drivermanager/FirefoxDriverManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/utils/AllureService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/utils/RetryAnalyser.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/utils/TestListeners.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/allure.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/log4j.properties" charset="windows-1251" />
+  </component>
+</project>
