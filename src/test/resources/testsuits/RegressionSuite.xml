@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+    <parameter name="browserType" value="chrome"/>
+    <test name="Running all tests">
+        <classes>
+            <class name="tests.LoginTest"></class>
+            <class name="tests.CreateNewProjectTest"></class>
+        </classes>
+    </test>
+
+</suite>

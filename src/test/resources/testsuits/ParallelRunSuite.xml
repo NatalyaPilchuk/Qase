@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+    <suite name="ParallelRun" thread-count="4" parallel="classes">
+    <test name="FinalSurge">
+        <classes>
+            <class name="tests.LoginTest"></class>
+            <class name="tests.CreateNewProjectTest"></class>
+        </classes>
+    </test>
+</suite>
